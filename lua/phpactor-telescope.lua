@@ -21,3 +21,5 @@ local picker = function()
         end  
     }):find() 
 end 
+
+picker()
