@@ -5,7 +5,7 @@ Neovim plugin that ports phpactor into telescope
 # TODO
 
 - [ ] Clear the code a bit
-- [ ] add search support
+- [x] add search support
 
 # Installation
 
